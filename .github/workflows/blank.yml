@@ -39,4 +39,5 @@ jobs:
 
     steps:
       - name: get the directory
-        run: pwd
+        run: pwd run: 
+      - run: echo hello world
